@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moatadil" alt="moatadil" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce website**
-
 - 🌱 I’m currently learning **Laravel, Django, React, Redux,**
 
 - 📫 How to reach me **dw.moatadil@gmail.com**
